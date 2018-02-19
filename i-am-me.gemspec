@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'i-am-me'
-  s.version     = '0.0.1'
+  s.version     = '0.0.2'
   s.date        = '2018-02-19'
   s.summary     = "I am me!"
   s.description = "Me is I"
