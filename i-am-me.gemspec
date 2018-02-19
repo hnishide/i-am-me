@@ -7,8 +7,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Hisaya Nishide"]
   s.email       = 'hisayanishide@gmail.com'
   s.files       = ["lib/i-am-me.rb"]
-  s.homepage    =
-    'http://rubygems.org/gems/me'
+  s.homepage    = 'https://github.com/hnishide/i-am-me'
   s.license       = 'MIT'
 end
 
